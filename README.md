@@ -10,6 +10,8 @@
 - [go-annotation](https://github.com/troublete/go-annotation)
   A module that allows to interpret annotations from commented go code, to allow for meta programming or additional
   inline configuration; e.g. rapid-prototyping configuration for code generation based on annotated code.
-- 
+- [go-radix](https://github.com/troublete/go-radix)
+  A module that contains a radix tree implementation which allows for wildcard definitions and value capturing along the
+  way; might be useful for routing applications e.g. web-server
 
 
