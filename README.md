@@ -13,5 +13,8 @@
 - [go-radix](https://github.com/troublete/go-radix)
   A module that contains a radix tree implementation which allows for wildcard definitions and value capturing along the
   way; might be useful for routing applications e.g. web-server
+- [go-lobby](https://github.com/troublete/go-lobby)
+  A module that allows to create shared in-memory data-exchange sessions; this allows the communication between multiple
+  clients without the need for a database e.g. chat-server, ...
 
 
