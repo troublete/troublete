@@ -16,5 +16,10 @@
 - [go-lobby](https://github.com/troublete/go-lobby)
   A module that allows to create shared in-memory data-exchange sessions; this allows the communication between multiple
   clients without the need for a database e.g. chat-server, ...
+- [go-sst](https://github.com/troublete/go-sst)
+  A module that allows linear flow analysis of hierarchical entities with
+  validation, similarily to solid-state implementation but for state
+  correctness
+
 
 
