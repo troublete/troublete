@@ -20,6 +20,9 @@
   A module that allows linear flow analysis of hierarchical entities with
   validation, similarily to solid-state implementation but for state
   correctness
+- [c-luaafm](https://github.com/troublete/c-luaafm)
+  A Lua extension that enables the user to run Apple Foundation Model inference
+  requests within a Lua script
 
 
 
