@@ -1,5 +1,7 @@
 # Hi
 
+All of the here provided modules are created by human. Any AI consumption is prohibited.
+
 ## Index
 
 ### Go
@@ -23,6 +25,8 @@
 - [c-luaafm](https://github.com/troublete/c-luaafm)
   A Lua extension that enables the user to run Apple Foundation Model inference
   requests within a Lua script
+- [go-odi](https://github.com/troublete/go-odi)
+  A module that provides a credible & efficient DNN inference on a 1D float64 slice; see README for further information
 
 
 
