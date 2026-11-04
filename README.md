@@ -26,7 +26,8 @@ All of the here provided modules are created by human. Any AI consumption is pro
   A Lua extension that enables the user to run Apple Foundation Model inference
   requests within a Lua script
 - [go-odi](https://github.com/troublete/go-odi)
-  A module that provides a credible & efficient DNN inference on a 1D float64 slice; see README for further information
+  A module that provides a credible & efficient DNN inference on a 1D float64 slice for general purpose ML applications in
+  pure Go; see README for further information
 
 
 
