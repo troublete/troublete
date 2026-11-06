@@ -1,7 +1,5 @@
 # Hi
 
-All of the here provided modules are created by human. 
-
 ## Index
 
 ### Go
