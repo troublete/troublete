@@ -1,6 +1,6 @@
 # Hi
 
-All of the here provided modules are created by human. Any AI consumption is prohibited.
+All of the here provided modules are created by human. 
 
 ## Index
 
